@@ -1,6 +1,9 @@
 # dellxps9500drivers
 ### This repo cotains a script to enable Goodix Fingerprint sensor 27c6:533c
-### Shenzhen Goodix Technology Co.,Ltd. FingerPrint is standard in XPS 13 9300, XPS 15 9500, XPS 17 9700
+### Shenzhen Goodix Technology Co.,Ltd. FingerPrint is standard in: 
+* XPS 13 9300 
+* XPS 15 9500 
+* XPS 17 9700
 ### Operating Systems: 
 * Ubuntu 20.04
 * PopOS
